@@ -78,7 +78,7 @@ a, a:hover {
   width: 38px;
   left: 0;
   top: 0;
-  background: url("../images/right-quote-white.png"); 
+  background: url("images/right-quote-white.png"); 
   background-repeat: no-repeat;
 }
 .fh5co-banner-text-box .quote-box::after {
@@ -86,7 +86,7 @@ a, a:hover {
   position: absolute;
   height: 38px;
   width: 38px;
-  background: url("../images//left-quote-white.png"); 
+  background: url("images//left-quote-white.png"); 
   background-repeat: no-repeat;
   right: 0;
   bottom: 0;
@@ -170,7 +170,7 @@ a, a:hover {
 .fh5co-content-box {
  
   padding-bottom: 100px;
-  background: url("../images/hstn-space-rise-rocket-gold.png");
+  background: url("images/hstn-space-rise-rocket-gold.png");
 }
 .fh5co-content-box .pr-0 img {
   margin-top: -128px;
@@ -236,7 +236,7 @@ a, a:hover {
   width: 20px;
   left: 0;
   top: -10px;
-  background: url("../images/right-quote-white.png");
+  background: url("images/right-quote-white.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -245,7 +245,7 @@ a, a:hover {
   position: absolute;
   height: 20px;
   width: 20px;
-  background: url("../images/left-quote-white.png");
+  background: url("images/left-quote-white.png");
   background-repeat: no-repeat;
   right: 0;
   bottom: -10px;
